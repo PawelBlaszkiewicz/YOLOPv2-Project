@@ -1,0 +1,7 @@
+demo.py - [last update: 9.12.2022] 
+-dobry algorytm wyszukiwania linii bez kalibracji z lotu ptaka
+-na test1 58.825s + 0.0417s/frame
+
+
+demov2.py - [currently working on] dobry algorytm wyszukiwania z kalibracją z lotu ptaka
+-na test1 45.953s~50 + 0.0353s/frame
